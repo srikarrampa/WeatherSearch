@@ -36,6 +36,12 @@ The background image changes according to the Climate and Time of the day.
 - Google Custom Image Search API
 - DarkSky Weather API
 
+Search Page with results:
+![](images/First_page.png)
+
+News Page
+![](images/News_Page.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
